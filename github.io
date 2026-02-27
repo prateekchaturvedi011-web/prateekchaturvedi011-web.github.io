@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE index.html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -9,6 +9,8 @@
 <script src=<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/brands.min.css" integrity="sha512-WxpJXPm/Is1a/dzEdhdaoajpgizHQimaLGL/QqUIAjIihlQqlPQb1V9vkGs9+VzXD7rgI6O+UsSKl4u5K36Ydw==" crossorigin="anonymous" referrerpolicy="no-referrer" />crossorigin="anonymous"></script>
 
 <style>
+(agar hai)
+images/
 *{
     margin:0;
     padding:0;
@@ -220,3 +222,4 @@ let letter = "";
 
 </body>
 </html>
+
